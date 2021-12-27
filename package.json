@@ -1,0 +1,24 @@
+{
+  "name": "jane-js-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nycdavid/jane-js-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nycdavid/jane-js-practice/issues"
+  },
+  "homepage": "https://github.com/nycdavid/jane-js-practice#readme",
+  "dependencies": {
+    "cha": "^0.2.1",
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
